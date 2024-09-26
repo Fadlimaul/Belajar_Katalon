@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Looping_Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c19c69d6-36d5-474a-b474-8c82ba9ed0fe</testCaseGuid>
+</TestCaseEntity>
